@@ -1,1 +1,1 @@
-ctr-gcp-generative-ai-leader-ep-01
+ctr-gcp-generative-ai-leader-ep-02
