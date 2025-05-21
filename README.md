@@ -8,7 +8,7 @@ Bienvenido/a al repositorio oficial de preparación para la certificación **Goo
 
 | Episodio | Tema | Video | Material |
 |----------|------|-------|----------|
-| [EP. 01](ctr-gcp-generative-ai-leader-ep-01/) | Cómo Convertirse en un Generative AI Leader | [Ver en YouTube](https://www.youtube.com/...) | [PDF](ctr-gcp-generative-ai-leader-ep-01/presentacion.pdf) |
+| [EP. 01](ctr-gcp-generative-ai-leader-ep-01/) | Cómo Convertirse en un Generative AI Leader | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDF](ctr-gcp-generative-ai-leader-ep-01/ctr-gcp-generative-ai-leader-ep-01.pdf) |
 | [EP. 02](ctr-gcp-generative-ai-leader-ep-02/) | Gen AI: Más allá del chatbot | [Ver en YouTube](https://www.youtube.com/...) | [PDF](ctr-gcp-generative-ai-leader-ep-02/presentacion.pdf) |
 | [EP. 03](ctr-gcp-generative-ai-leader-ep-03/) | Conceptos Fundamentales de Gen AI | [Ver en YouTube](https://www.youtube.com/...) | [PDF](ctr-gcp-generative-ai-leader-ep-03/presentacion.pdf) |
 | [EP. 04](ctr-gcp-generative-ai-leader-ep-04/) | Navegando el Panorama de Gen AI | [Ver en YouTube](https://www.youtube.com/...) | [PDF](ctr-gcp-generative-ai-leader-ep-04/presentacion.pdf) |
