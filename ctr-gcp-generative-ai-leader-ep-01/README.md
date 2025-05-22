@@ -23,7 +23,7 @@ Bienvenido/a al primer episodio de la serie **Google Cloud Generative AI Leader*
 
 ## 📄 Materiales del Episodio
 
-- [📥 Presentación PDF](./ctr-gcp-generative-ai-leader-ep-01.pdf)
+- [📥 Presentación PDF](./presentacion.pdf)
 - Recursos complementarios: Próximamente
 
 ---
