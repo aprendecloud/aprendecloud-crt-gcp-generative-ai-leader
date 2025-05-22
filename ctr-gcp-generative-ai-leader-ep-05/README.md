@@ -1,3 +1,5 @@
+![Logo de Aprende.Cloud](https://media.licdn.com/dms/image/v2/D4E0BAQEcS_NueMRdKg/company-logo_200_200/company-logo_200_200/0/1720507130557/aprende_cloud_logo?e=1753315200&v=beta&t=4h0PIMDcupaxj_IH6IkyNkzja5ElsqWlyCQuPppjVwY)
+
 # 💼 Episodio 05 – Aplicaciones Gen AI: Transforma tu trabajo
 
 En el quinto episodio de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, exploramos cómo la IA Generativa puede integrarse en tu entorno profesional para automatizar tareas, optimizar procesos y aumentar tu productividad. ¡Descubre cómo convertirte en un líder de la transformación con Gen AI!
