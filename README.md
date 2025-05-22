@@ -1,3 +1,6 @@
+![Logo de Aprende.Cloud](https://media.licdn.com/dms/image/v2/D4E0BAQEcS_NueMRdKg/company-logo_200_200/company-logo_200_200/0/1720507130557/aprende_cloud_logo?e=1753315200&v=beta&t=4h0PIMDcupaxj_IH6IkyNkzja5ElsqWlyCQuPppjVwY)
+
+
 # 🎓 Certificación Google Cloud Generative AI Leader (En Español)
 
 Bienvenido/a al repositorio oficial de preparación para la certificación **Google Cloud Certified: Generative AI Leader**, desarrollado por [Aprende.Cloud](https://aprende.cloud). Aquí encontrarás todos los episodios, presentaciones, enlaces a los videos de YouTube y material complementario para dominar los contenidos y certificarte con confianza. 🤖☁️
