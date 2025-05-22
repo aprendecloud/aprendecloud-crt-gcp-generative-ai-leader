@@ -1,1 +1,49 @@
-ctr-gcp-generative-ai-leader-ep-01
+# 📝 Episodio 06 – Preguntas y Respuestas Tipo Examen
+
+En el sexto y último episodio de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, te ayudamos a prepararte para el examen oficial con preguntas de práctica, recomendaciones clave y estrategias para responder con confianza.
+
+---
+
+## 🎯 Objetivos del Episodio
+
+- Conocer el formato y estructura del examen oficial.
+- Revisar preguntas tipo examen con sus respectivas respuestas explicadas.
+- Identificar los temas más evaluados.
+- Obtener consejos para presentar la certificación con éxito.
+
+---
+
+## 🎥 Video del Episodio
+
+📺 Mira el video completo en YouTube:  
+👉 [https://www.youtube.com/watch?v=TU_ENLACE_EP6](https://www.youtube.com/watch?v=TU_ENLACE_EP6)
+
+---
+
+## 📄 Materiales del Episodio
+
+- [📥 Presentación PDF](./ctr-gcp-generative-ai-leader-ep-06.pdf)
+- [🧪 Simulacro de Preguntas PDF](./preguntas-tipo-examen.pdf)
+
+---
+
+## 🔙 Episodio Anterior
+
+💼 [Episodio 05 – Aplicaciones Gen AI: Transforma tu trabajo](../ctr-gcp-generative-ai-leader-ep-05/)
+
+---
+
+## 🎓 ¿Listo para certificarte?
+
+Repasa los materiales, practica con confianza y agenda tu examen en el sitio oficial de Google Cloud.  
+👉 [https://cloud.google.com/certification](https://cloud.google.com/certification)
+
+---
+
+## 💬 ¿Preguntas?
+
+Únete a nuestra comunidad en [Aprende.Cloud](https://aprende.cloud) o escríbenos a hola@aprende.cloud.
+
+---
+
+**Aprende.Cloud** – Aprende. Certifícate. Transforma.
