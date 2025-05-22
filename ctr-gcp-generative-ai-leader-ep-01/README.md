@@ -19,6 +19,9 @@ Bienvenido/a al primer episodio de la serie **Google Cloud Generative AI Leader*
 📺 Mira el video completo en YouTube:  
 👉 [🎓 [EP. 01] Cómo Convertirse en un Generative AI Leader](https://www.youtube.com/watch?v=rVoZCRg24HM)
 
+[![Mira el video en YouTube](https://img.youtube.com/vi/rVoZCRg24HM/0.jpg)](https://www.youtube.com/watch?v=rVoZCRg24HM)
+
+
 ---
 
 ## 📄 Materiales del Episodio
