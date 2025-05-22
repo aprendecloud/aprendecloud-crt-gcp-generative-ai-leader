@@ -1,3 +1,5 @@
+![Logo de Aprende.Cloud](https://media.licdn.com/dms/image/v2/D4E0BAQEcS_NueMRdKg/company-logo_200_200/company-logo_200_200/0/1720507130557/aprende_cloud_logo?e=1753315200&v=beta&t=4h0PIMDcupaxj_IH6IkyNkzja5ElsqWlyCQuPppjVwY)
+
 # 🤖 Episodio 02 – Gen AI: Más allá del chatbot
 
 En este segundo episodio de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, vamos más allá de lo básico. Exploramos cómo la IA Generativa está revolucionando múltiples industrias, no solo a través de los chatbots, sino también mediante soluciones creativas, automatización de procesos y toma de decisiones inteligentes.
