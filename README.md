@@ -21,9 +21,10 @@ Bienvenido/a al repositorio oficial de preparación para la certificación **Goo
 
 Cada carpeta contiene:
 
-- `presentacion.pdf`: Diapositivas utilizadas en la clase
-- `recursos-complementarios.pdf`: Material adicional, enlaces útiles y ejercicios
-- `enlace-video.txt`: Enlace directo al video de YouTube
+- `presentacion.pdf`: Diapositivas utilizadas durante la sesión.
+- `guia-de-estudio.pdf`: Guía de estudio para reforzar y profundizar los contenidos clave.
+- `recursos-complementarios.pdf`: Material adicional con enlaces útiles, lecturas recomendadas y ejercicios prácticos.
+- `enlace-video.txt`: Enlace directo al video correspondiente en YouTube.
 
 ---
 
