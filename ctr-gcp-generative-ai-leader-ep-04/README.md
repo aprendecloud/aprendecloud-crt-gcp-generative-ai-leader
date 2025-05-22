@@ -1,3 +1,5 @@
+![Logo de Aprende.Cloud](https://media.licdn.com/dms/image/v2/D4E0BAQEcS_NueMRdKg/company-logo_200_200/company-logo_200_200/0/1720507130557/aprende_cloud_logo?e=1753315200&v=beta&t=4h0PIMDcupaxj_IH6IkyNkzja5ElsqWlyCQuPppjVwY)
+
 # 🌐 Episodio 04 – Gen AI: Navega por el panorama
 
 En el cuarto episodio de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, analizamos el ecosistema actual de la Inteligencia Artificial Generativa. Revisamos proveedores, herramientas, servicios y cómo se posiciona Google Cloud en este competitivo panorama.
