@@ -2,7 +2,7 @@
 
 # 📝 Episodio 07 – Preguntas y Respuestas Tipo Examen
 
-En el sexto y último episodio de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, te ayudamos a prepararte para el examen oficial con preguntas de práctica, recomendaciones clave y estrategias para responder con confianza.
+En el séptimo y último episodio de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, te ayudamos a prepararte para el examen oficial con preguntas de práctica, recomendaciones clave y estrategias para responder con confianza.
 
 ---
 
