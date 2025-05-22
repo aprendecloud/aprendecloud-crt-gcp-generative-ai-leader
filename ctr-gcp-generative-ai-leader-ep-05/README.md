@@ -1,6 +1,6 @@
 ![Logo de Aprende.Cloud](https://media.licdn.com/dms/image/v2/D4E0BAQEcS_NueMRdKg/company-logo_200_200/company-logo_200_200/0/1720507130557/aprende_cloud_logo?e=1753315200&v=beta&t=4h0PIMDcupaxj_IH6IkyNkzja5ElsqWlyCQuPppjVwY)
 
-# 💼 Episodio 05 – Aplicaciones Gen AI: Transforma tu trabajo
+# 💼 Episodio 05 – Aplicaciones de IA Generativa: Transforma tu trabajo
 
 En el quinto episodio de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, exploramos cómo la IA Generativa puede integrarse en tu entorno profesional para automatizar tareas, optimizar procesos y aumentar tu productividad. ¡Descubre cómo convertirte en un líder de la transformación con Gen AI!
 
@@ -10,7 +10,7 @@ En el quinto episodio de la serie **Google Cloud Generative AI Leader** de Apren
 
 - Identificar oportunidades prácticas de uso de Gen AI en el trabajo diario.
 - Revisar casos de uso reales en diferentes roles y sectores.
-- Aprender a implementar soluciones Gen AI con herramientas de Google Cloud.
+- Aprender a implementar soluciones IA Generativa con herramientas de Google Cloud.
 - Inspirarte con ejemplos de transformación organizacional usando IA Generativa.
 
 ---
@@ -31,13 +31,13 @@ En el quinto episodio de la serie **Google Cloud Generative AI Leader** de Apren
 
 ## 🔙 Episodio Anterior
 
-🌐 [Episodio 04 – Gen AI: Navega por el panorama](../ctr-gcp-generative-ai-leader-ep-04/)
+🌐 [Episodio 04 – IA Generativa: Navega por el panorama](../ctr-gcp-generative-ai-leader-ep-04/)
 
 ---
 
 ## 🔜 Siguiente Episodio
 
-📝 [Episodio 06 – Preguntas y Respuestas Tipo Examen](../ctr-gcp-generative-ai-leader-ep-06/)
+📝 [Episodio 06 – Agentes de IA Generativa: Transforme su organización](../ctr-gcp-generative-ai-leader-ep-06/)
 
 ---
 
