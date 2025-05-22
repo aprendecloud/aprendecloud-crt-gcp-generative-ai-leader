@@ -27,7 +27,7 @@ Bienvenido/a al primer episodio de la serie **Google Cloud Generative AI Leader*
 ## 📄 Materiales del Episodio
 
 - [📥 Presentación PDF](./presentacion.pdf)
-- Recursos complementarios: Próximamente
+- [📥 Guía de Estudio PDF](./guia-de-estudio.pdf)
 
 ---
 
