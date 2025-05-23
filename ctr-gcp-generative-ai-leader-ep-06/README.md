@@ -35,6 +35,12 @@ En el sexto y último episodio de la serie **Google Cloud Generative AI Leader**
 
 ---
 
+## 🔜 Siguiente Episodio
+
+📝 [Episodio 07 – Preguntas y Respuestas Tipo Examen](../ctr-gcp-generative-ai-leader-ep-07/)
+
+---
+
 ## 🎓 ¿Listo para certificarte?
 
 Repasa los materiales, practica con confianza y agenda tu examen en el sitio oficial de Google Cloud.  
