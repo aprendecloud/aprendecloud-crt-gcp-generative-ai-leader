@@ -8,10 +8,10 @@ En el sexto de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, 
 
 ## 🎯 Objetivos del Episodio
 
-- Conocer el formato y estructura del examen oficial.
-- Revisar preguntas tipo examen con sus respectivas respuestas explicadas.
-- Identificar los temas más evaluados.
-- Obtener consejos para presentar la certificación con éxito.
+- Comprender cómo los agentes de IA generativa pueden transformar procesos empresariales.
+- Conocer los componentes clave de un agente de IA generativa: modelos, loops de razonamiento y herramientas.
+- Explorar aplicaciones prácticas de agentes personalizados para resolver desafíos específicos del negocio.
+- Realizar una práctica guiada para construir un agente básico de IA generativa utilizando herramientas de Google Cloud.
 
 ---
 
@@ -24,8 +24,8 @@ En el sexto de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, 
 
 ## 📄 Materiales del Episodio
 
-- [📥 Presentación PDF](./ctr-gcp-generative-ai-leader-ep-06.pdf)
-- [🧪 Simulacro de Preguntas PDF](./preguntas-tipo-examen.pdf)
+- [📥 Presentación PDF](./presentacion.pdf)
+
 
 ---
 
