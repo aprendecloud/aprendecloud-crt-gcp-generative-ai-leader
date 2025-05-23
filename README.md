@@ -13,12 +13,12 @@ Bienvenido/a al repositorio oficial de preparación para la certificación **Goo
 | 📅 Fecha      | Episodio | Tema                                             | Video | Material de Estudio |
 |---------------|----------|--------------------------------------------------|--------|----------|
 | 2025-05-20    | [EP. 01](ctr-gcp-generative-ai-leader-ep-01/) | Cómo Convertirse en un Generative AI Leader            | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-01/) |
-| 2025-05-27    | [EP. 02](ctr-gcp-generative-ai-leader-ep-02/) | Gen AI: Más allá del chatbot                           | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-02/) |
-| 2025-06-03    | [EP. 03](ctr-gcp-generative-ai-leader-ep-03/) | Conceptos Fundamentales de Gen AI                      | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-03/) |
-| 2025-06-10    | [EP. 04](ctr-gcp-generative-ai-leader-ep-04/) | Navegando el Panorama de Gen AI                        | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-04/) |
-| 2025-06-17    | [EP. 05](ctr-gcp-generative-ai-leader-ep-05/) | Aplicaciones Gen AI: Transforma tu Trabajo             | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-05/) |
-| 2025-06-24    | [EP. 06](ctr-gcp-generative-ai-leader-ep-06/) | Agentes de Gen AI: Transforme su organización          | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-06/) |
-| 2025-07-01    | [EP. 07](ctr-gcp-generative-ai-leader-ep-07/) | Preguntas Tipo Examen y Simulacro                      | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-06/) |
+| 2025-05-27    | [EP. 02](ctr-gcp-generative-ai-leader-ep-02/) | IA Generativa: Más allá del chatbot                           | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-02/) |
+| 2025-06-03    | [EP. 03](ctr-gcp-generative-ai-leader-ep-03/) | IA Generativa: Descubre los conceptos fundamentales                      | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-03/) |
+| 2025-06-10    | [EP. 04](ctr-gcp-generative-ai-leader-ep-04/) | IA Generativa: Navega por el panorama                        | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-04/) |
+| 2025-06-17    | [EP. 05](ctr-gcp-generative-ai-leader-ep-05/) | Aplicaciones de IA Generativa: Transforma tu trabajo             | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-05/) |
+| 2025-06-24    | [EP. 06](ctr-gcp-generative-ai-leader-ep-06/) | Agentes de IA Generativa: Transforme su organización          | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-06/) |
+| 2025-07-01    | [EP. 07](ctr-gcp-generative-ai-leader-ep-07/) | Preguntas y Respuestas Tipo Examen                      | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-06/) |
 
 
 ---
