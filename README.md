@@ -12,13 +12,13 @@ Bienvenido/a al repositorio oficial de preparación para la certificación **Goo
 
 | 📅 Fecha      | Episodio | Tema                                             | Video | Material de Estudio |
 |---------------|----------|--------------------------------------------------|--------|----------|
-| 2025-05-20    | [EP. 01](ctr-gcp-generative-ai-leader-ep-01/) | Cómo Convertirse en un Generative AI Leader            | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-01/) |
-| 2025-05-27    | [EP. 02](ctr-gcp-generative-ai-leader-ep-02/) | IA Generativa: Más allá del chatbot                           | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-02/) |
-| 2025-06-03    | [EP. 03](ctr-gcp-generative-ai-leader-ep-03/) | IA Generativa: Descubre los conceptos fundamentales                      | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-03/) |
-| 2025-06-10    | [EP. 04](ctr-gcp-generative-ai-leader-ep-04/) | IA Generativa: Navega por el panorama                        | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-04/) |
-| 2025-06-17    | [EP. 05](ctr-gcp-generative-ai-leader-ep-05/) | Aplicaciones de IA Generativa: Transforma tu trabajo             | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-05/) |
-| 2025-06-24    | [EP. 06](ctr-gcp-generative-ai-leader-ep-06/) | Agentes de IA Generativa: Transforme su organización          | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-06/) |
-| 2025-07-01    | [EP. 07](ctr-gcp-generative-ai-leader-ep-07/) | Preguntas y Respuestas Tipo Examen                      | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ctr-gcp-generative-ai-leader-ep-06/) |
+| 2025-05-20    | [EP. 01](ep-01-crt-gcp-generative-ai-leader-aprendecloud/) | Cómo Convertirse en un Generative AI Leader            | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ep-01-crt-gcp-generative-ai-leader-aprendecloud/) |
+| 2025-05-27    | [EP. 02](ep-02-crt-gcp-generative-ai-leader-aprendecloud/) | IA Generativa: Más allá del chatbot                           | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ep-02-crt-gcp-generative-ai-leader-aprendecloud/) |
+| 2025-06-03    | [EP. 03](ep-03-crt-gcp-generative-ai-leader-aprendecloud/) | IA Generativa: Descubre los conceptos fundamentales                      | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ep-03-crt-gcp-generative-ai-leader-aprendecloud/) |
+| 2025-06-10    | [EP. 04](ep-04-crt-gcp-generative-ai-leader-aprendecloud/) | IA Generativa: Navega por el panorama                        | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ep-04-crt-gcp-generative-ai-leader-aprendecloud/) |
+| 2025-06-17    | [EP. 05](ep-05-crt-gcp-generative-ai-leader-aprendecloud/) | Aplicaciones de IA Generativa: Transforma tu trabajo             | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ep-05-crt-gcp-generative-ai-leader-aprendecloud/) |
+| 2025-06-24    | [EP. 06](ep-06-crt-gcp-generative-ai-leader-aprendecloud/) | Agentes de IA Generativa: Transforme su organización          | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ep-06-crt-gcp-generative-ai-leader-aprendecloud/) |
+| 2025-07-01    | [EP. 07](ep-07-crt-gcp-generative-ai-leader-aprendecloud/) | Preguntas y Respuestas Tipo Examen                      | [Ver en YouTube](https://www.youtube.com/watch?v=rVoZCRg24HM) | [PDFs](ep-07-crt-gcp-generative-ai-leader-aprendecloud/) |
 
 
 ---
@@ -37,7 +37,6 @@ Cada carpeta contiene:
 ## 📌 Requisitos
 
 Esta certificación no requiere conocimientos técnicos previos. Está dirigida a:
-
 - Líderes digitales
 - Gerentes de transformación
 - Profesionales curiosos por la inteligencia artificial generativa
