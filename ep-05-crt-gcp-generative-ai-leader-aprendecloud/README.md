@@ -2,7 +2,7 @@
 
 # 💼 Episodio 05 – Aplicaciones de IA Generativa: Transforma tu trabajo
 
-En el quinto episodio de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, exploramos cómo la IA Generativa puede integrarse en tu entorno profesional para automatizar tareas, optimizar procesos y aumentar tu productividad. ¡Descubre cómo convertirte en un líder de la transformación con Gen AI!
+En el quinto episodio de la serie **Google Cloud Generative AI Leader** de **@Aprende.Cloud**, exploramos cómo la IA Generativa puede integrarse en tu entorno profesional para automatizar tareas, optimizar procesos y aumentar tu productividad. ¡Descubre cómo convertirte en un líder de la transformación con Gen AI!
 
 ---
 
@@ -18,7 +18,7 @@ En el quinto episodio de la serie **Google Cloud Generative AI Leader** de Apren
 ## 🎥 Video del Episodio
 
 📺 Mira el video completo en YouTube:  
-👉 [https://www.youtube.com/watch?v=TU_ENLACE_EP5](https://www.youtube.com/watch?v=TU_ENLACE_EP5)
+👉 [https://www.youtube.com/watch?v=TU_ENLACE_EP5](https://www.youtube.com/watch?v=ENLACE_EP5)
 
 ---
 
@@ -31,19 +31,19 @@ En el quinto episodio de la serie **Google Cloud Generative AI Leader** de Apren
 
 ## 🔙 Episodio Anterior
 
-🌐 [Episodio 04 – IA Generativa: Navega por el panorama](../ctr-gcp-generative-ai-leader-ep-04/)
+🌐 [Episodio 04 – IA Generativa: Navega por el panorama](../ep-04-crt-gcp-generative-ai-leader-aprendecloud/)
 
 ---
 
 ## 🔜 Siguiente Episodio
 
-📝 [Episodio 06 – Agentes de IA Generativa: Transforme su organización](../ctr-gcp-generative-ai-leader-ep-06/)
+📝 [Episodio 06 – Agentes de IA Generativa: Transforme su organización](../ep-06-crt-gcp-generative-ai-leader-aprendecloud/)
 
 ---
 
 ## 💬 ¿Preguntas?
 
-Únete a nuestra comunidad en [Aprende.Cloud](https://aprende.cloud) o escríbenos a hola@aprende.cloud.
+Únete a nuestra comunidad en [Aprende.Cloud](https://www.youtube.com/@aprendecloud) o escríbenos a hola@aprende.cloud.
 
 ---
 
