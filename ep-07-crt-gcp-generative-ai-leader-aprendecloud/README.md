@@ -2,7 +2,7 @@
 
 # 📝 Episodio 07 – Preguntas y Respuestas Tipo Examen
 
-En el séptimo y último episodio de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, te ayudamos a prepararte para el examen oficial con preguntas de práctica, recomendaciones clave y estrategias para responder con confianza.
+En el séptimo y último episodio de la serie **Google Cloud Generative AI Leader** de **@Aprende.Cloud**, te ayudamos a prepararte para el examen oficial con preguntas de práctica, recomendaciones clave y estrategias para responder con confianza.
 
 ---
 
@@ -18,20 +18,20 @@ En el séptimo y último episodio de la serie **Google Cloud Generative AI Leade
 ## 🎥 Video del Episodio
 
 📺 Mira el video completo en YouTube:  
-👉 [https://www.youtube.com/watch?v=TU_ENLACE_EP6](https://www.youtube.com/watch?v=TU_ENLACE_EP6)
+👉 [https://www.youtube.com/watch?v=ENLACE_EP6](https://www.youtube.com/watch?v=ENLACE_EP6)
 
 ---
 
 ## 📄 Materiales del Episodio
 
-- [📥 Presentación PDF](./ctr-gcp-generative-ai-leader-ep-07.pdf)
+- [📥 Presentación PDF](./presentacion.pdf)
 - [🧪 Simulacro de Preguntas PDF](./preguntas-tipo-examen.pdf)
 
 ---
 
 ## 🔙 Episodio Anterior
 
-💼 [Episodio 06 – Agentes de IA Generativa: Transforme su organización](../ctr-gcp-generative-ai-leader-ep-06/)
+💼 [Episodio 06 – Agentes de IA Generativa: Transforme su organización](../ep-06-crt-gcp-generative-ai-leader-aprendecloud/)
 
 ---
 
@@ -44,7 +44,7 @@ Repasa los materiales, practica con confianza y agenda tu examen en el sitio ofi
 
 ## 💬 ¿Preguntas?
 
-Únete a nuestra comunidad en [Aprende.Cloud](https://aprende.cloud) o escríbenos a hola@aprende.cloud.
+Únete a nuestra comunidad en [Aprende.Cloud](https://www.youtube.com/@aprendecloud) o escríbenos a hola@aprende.cloud.
 
 ---
 
