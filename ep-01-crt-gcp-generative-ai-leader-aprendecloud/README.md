@@ -1,8 +1,8 @@
 ![Logo de Aprende.Cloud](https://media.licdn.com/dms/image/v2/D4E0BAQEcS_NueMRdKg/company-logo_200_200/company-logo_200_200/0/1720507130557/aprende_cloud_logo?e=1753315200&v=beta&t=4h0PIMDcupaxj_IH6IkyNkzja5ElsqWlyCQuPppjVwY)
 
-# 📘 Episodio 01 – Cómo Convertirse en un Generative AI Leader
+# 📘 Episodio 01 – Cómo Convertirse en un "Generative AI Leader"
 
-Bienvenido/a al primer episodio de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud. En este capítulo descubrirás qué es esta nueva certificación de Google Cloud y cómo puedes prepararte para convertirte en un líder en IA Generativa.
+Bienvenido(a) al primer episodio de la serie **Google Cloud Generative AI Leader** de @Aprende.Cloud. En este capítulo descubrirás qué es esta nueva certificación de Google Cloud y cómo puedes prepararte para convertirte en un líder en IA Generativa.
 
 ---
 
@@ -35,7 +35,7 @@ Bienvenido/a al primer episodio de la serie **Google Cloud Generative AI Leader*
 
 ## 🧭 Siguiente Episodio
 
-🔜 [Episodio 02 – Gen AI: Más allá del chatbot](../ctr-gcp-generative-ai-leader-ep-02/)
+🔜 [Episodio 02 – IA Generativa: Más allá del chatbot](../ep-02-crt-gcp-generative-ai-leader-aprendecloud/)
 
 ---
 
