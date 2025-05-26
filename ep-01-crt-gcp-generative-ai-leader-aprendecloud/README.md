@@ -2,7 +2,7 @@
 
 # 📘 Episodio 01 – Cómo Convertirse en un "Generative AI Leader"
 
-Bienvenido(a) al primer episodio de la serie **Google Cloud Generative AI Leader** de @Aprende.Cloud. En este capítulo descubrirás qué es esta nueva certificación de Google Cloud y cómo puedes prepararte para convertirte en un líder en IA Generativa.
+Bienvenido(a) al primer episodio de la serie **Google Cloud Generative AI Leader** de **@Aprende.Cloud**. En este capítulo descubrirás qué es esta nueva certificación de Google Cloud y cómo puedes prepararte para convertirte en un líder en IA Generativa.
 
 ---
 
