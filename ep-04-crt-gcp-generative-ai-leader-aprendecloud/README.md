@@ -2,7 +2,7 @@
 
 # 🌐 Episodio 04 – IA Generativa: Navega por el panorama
 
-En el cuarto episodio de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, analizamos el ecosistema actual de la Inteligencia Artificial Generativa. Revisamos proveedores, herramientas, servicios y cómo se posiciona Google Cloud en este competitivo panorama.
+En el cuarto episodio de la serie **Google Cloud Generative AI Leader** de **@Aprende.Cloud**, analizamos el ecosistema actual de la Inteligencia Artificial Generativa. Revisamos proveedores, herramientas, servicios y cómo se posiciona Google Cloud en este competitivo panorama.
 
 ---
 
@@ -18,7 +18,7 @@ En el cuarto episodio de la serie **Google Cloud Generative AI Leader** de Apren
 ## 🎥 Video del Episodio
 
 📺 Mira el video completo en YouTube:  
-👉 [https://www.youtube.com/watch?v=TU_ENLACE_EP4](https://www.youtube.com/watch?v=TU_ENLACE_EP4)
+👉 [https://www.youtube.com/watch?v=TU_ENLACE_EP4](https://www.youtube.com/watch?v=ENLACE_EP4)
 
 ---
 
@@ -31,19 +31,19 @@ En el cuarto episodio de la serie **Google Cloud Generative AI Leader** de Apren
 
 ## 🔙 Episodio Anterior
 
-🧠 [Episodio 03 – IA Generativa: Descubre los conceptos fundamentales](../ctr-gcp-generative-ai-leader-ep-03/)
+🧠 [Episodio 03 – IA Generativa: Descubre los conceptos fundamentales](../ep-03-crt-gcp-generative-ai-leader-aprendecloud/)
 
 ---
 
 ## 🔜 Siguiente Episodio
 
-💼 [Episodio 05 – Aplicaciones de IA Generativa: Transforma tu trabajo](../ctr-gcp-generative-ai-leader-ep-05/)
+💼 [Episodio 05 – Aplicaciones de IA Generativa: Transforma tu trabajo](../ep-05-crt-gcp-generative-ai-leader-aprendecloud/)
 
 ---
 
 ## 💬 ¿Preguntas?
 
-Únete a nuestra comunidad en [Aprende.Cloud](https://aprende.cloud) o escríbenos a hola@aprende.cloud.
+Únete a nuestra comunidad en [Aprende.Cloud](https://www.youtube.com/@aprendecloud) o escríbenos a hola@aprende.cloud.
 
 ---
 
