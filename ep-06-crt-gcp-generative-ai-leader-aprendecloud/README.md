@@ -2,7 +2,7 @@
 
 # 📝 Episodio 06 – Agentes de IA Generativa: Transforme su organización
 
-En el sexto de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, te ayudamos a prepararte para el examen oficial con preguntas de práctica, recomendaciones clave y estrategias para responder con confianza.
+En el sexto de la serie **Google Cloud Generative AI Leader** de **@Aprende.Cloud**, te ayudamos a comprender cómo los agentes de IA generativa pueden transformar procesos empresariales.
 
 ---
 
@@ -31,13 +31,13 @@ En el sexto de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, 
 
 ## 🔙 Episodio Anterior
 
-💼 [Episodio 05 – Aplicaciones Gen AI: Transforma tu trabajo](../ctr-gcp-generative-ai-leader-ep-05/)
+💼 [Episodio 05 – Aplicaciones Gen AI: Transforma tu trabajo](../ep-05-crt-gcp-generative-ai-leader-aprendecloud/)
 
 ---
 
 ## 🔜 Siguiente Episodio
 
-📝 [Episodio 07 – Preguntas y Respuestas Tipo Examen](../ctr-gcp-generative-ai-leader-ep-07/)
+📝 [Episodio 07 – Preguntas y Respuestas Tipo Examen](../ep-07-crt-gcp-generative-ai-leader-aprendecloud/)
 
 ---
 
@@ -50,7 +50,7 @@ Repasa los materiales, practica con confianza y agenda tu examen en el sitio ofi
 
 ## 💬 ¿Preguntas?
 
-Únete a nuestra comunidad en [Aprende.Cloud](https://aprende.cloud) o escríbenos a hola@aprende.cloud.
+Únete a nuestra comunidad en [Aprende.Cloud](https://www.youtube.com/@aprendecloud) o escríbenos a hola@aprende.cloud.
 
 ---
 
