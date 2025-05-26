@@ -43,7 +43,7 @@ En este segundo episodio de la serie **Google Cloud Generative AI Leader** de **
 
 ## 💬 ¿Preguntas?
 
-Únete a nuestra comunidad en [Aprende.Cloud](https://aprende.cloud) o escríbenos a hola@aprende.cloud.
+Únete a nuestra comunidad en [Aprende.Cloud](https://www.youtube.com/@aprendecloud) o escríbenos a hola@aprende.cloud.
 
 ---
 
