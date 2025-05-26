@@ -2,7 +2,7 @@
 
 # 🤖 Episodio 02 – IA Generativa: Más allá del chatbot
 
-En este segundo episodio de la serie **Google Cloud Generative AI Leader** de Aprende.Cloud, vamos más allá de lo básico. Exploramos cómo la IA Generativa está revolucionando múltiples industrias, no solo a través de los chatbots, sino también mediante soluciones creativas, automatización de procesos y toma de decisiones inteligentes.
+En este segundo episodio de la serie **Google Cloud Generative AI Leader** de **Aprende.Cloud**, vamos más allá de lo básico. Exploramos cómo la IA Generativa está revolucionando múltiples industrias, no solo a través de los chatbots, sino también mediante soluciones creativas, automatización de procesos y toma de decisiones inteligentes.
 
 ---
 
@@ -31,13 +31,13 @@ En este segundo episodio de la serie **Google Cloud Generative AI Leader** de Ap
 
 ## 🔙 Episodio Anterior
 
-📘 [Episodio 01 – Cómo Convertirse en un Generative AI Leader](../ctr-gcp-generative-ai-leader-ep-01/)
+📘 [Episodio 01 – Cómo Convertirse en un Generative AI Leader](../ep-01-crt-gcp-generative-ai-leader-aprendecloud/)
 
 ---
 
 ## 🔜 Siguiente Episodio
 
-🧠 [Episodio 03 – IA Generativa: Descubre los conceptos fundamentales](../ctr-gcp-generative-ai-leader-ep-03/)
+🧠 [Episodio 03 – IA Generativa: Descubre los conceptos fundamentales](../ep-03-crt-gcp-generative-ai-leader-aprendecloud/)
 
 ---
 
