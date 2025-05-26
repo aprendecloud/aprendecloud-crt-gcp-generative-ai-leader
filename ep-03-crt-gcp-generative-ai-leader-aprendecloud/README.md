@@ -2,7 +2,7 @@
 
 # 🧠 Episodio 03 – IA Generativa: Descubre los conceptos fundamentales
 
-En este tercer episodio de la serie **Google Cloud Generative AI Leader** de **Aprende.Cloud**, te sumergirás en los conceptos clave que sustentan la Inteligencia Artificial Generativa. Entenderás cómo funcionan los modelos, qué los hace especiales y qué debes saber para dominar este campo.
+En este tercer episodio de la serie **Google Cloud Generative AI Leader** de **@Aprende.Cloud**, te sumergirás en los conceptos clave que sustentan la Inteligencia Artificial Generativa. Entenderás cómo funcionan los modelos, qué los hace especiales y qué debes saber para dominar este campo.
 
 ---
 
@@ -18,7 +18,7 @@ En este tercer episodio de la serie **Google Cloud Generative AI Leader** de **A
 ## 🎥 Video del Episodio
 
 📺 Mira el video completo en YouTube:  
-👉 [https://www.youtube.com/watch?v=TU_ENLACE_EP3](https://www.youtube.com/watch?v=TU_ENLACE_EP3)
+👉 [https://www.youtube.com/watch?v=TU_ENLACE_EP3](https://www.youtube.com/watch?v=ENLACE_EP3)
 
 ---
 
