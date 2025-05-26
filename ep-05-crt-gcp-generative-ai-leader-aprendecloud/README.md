@@ -18,7 +18,7 @@ En el quinto episodio de la serie **Google Cloud Generative AI Leader** de **@Ap
 ## 🎥 Video del Episodio
 
 📺 Mira el video completo en YouTube:  
-👉 [https://www.youtube.com/watch?v=TU_ENLACE_EP5](https://www.youtube.com/watch?v=ENLACE_EP5)
+👉 [📺 Episodio 05 – Aplicaciones de IA Generativa: Transforma tu trabajo](https://www.youtube.com/watch?v=ENLACE_EP5)
 
 ---
 
