@@ -18,7 +18,10 @@ En este segundo episodio de la serie **Google Cloud Generative AI Leader** de **
 ## 🎥 Video del Episodio
 
 📺 Mira el video completo en YouTube:  
-👉 [https://www.youtube.com/watch?v=TU_ENLACE_EP2](https://www.youtube.com/watch?v=ENLACE_EP2)
+👉 [🎓 [EP. 02] Google Cloud Generative AI Leader [02] IA Generativa: Más allá del chatbot](https://www.youtube.com/watch?v=WEFjz_PbM2s)
+
+[![Mira el video en YouTube](https://img.youtube.com/vi/rVoZCRg24HM/0.jpg)](https://www.youtube.com/watch?v=WEFjz_PbM2s)
+
 
 ---
 
